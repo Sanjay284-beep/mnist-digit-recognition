@@ -12,7 +12,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 import seaborn as sns
 import os
 
-os.makedirs('results', exist_ok=True)
+os.makedirs('results', exist_ok=True
 
 print("=" * 60)
 print("MNIST DIGIT RECOGNITION PROJECT")
